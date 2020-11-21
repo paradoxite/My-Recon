@@ -1,5 +1,5 @@
 1)Use my script for initial recon > initial_subs.txt
-2)Use ShuffleDNS or aiodnsbrute for bruteforcing > bruteforced_subs.txt
+2)Use ShuffleDNS or aiodnsbrute for bruteforcing (https://github.com/assetnote/commonspeak2-wordlists & jhadix1million plus my own) > bruteforced_subs.txt
 3)Use altdns/dnsgen for permuatations > permutated_subs.txt
 4)Resolve permuated_subs.txt
 5)Enjoy the hunt!
